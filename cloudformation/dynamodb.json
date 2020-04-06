@@ -11,18 +11,6 @@
                     {
                         "AttributeName": "id",
                         "AttributeType": "S"
-                    },
-                    {
-                        "AttributeName": "name",
-                        "AttributeType": "S"
-                    },
-                    {
-                        "AttributeName": "last_question",
-                        "AttributeType": "S"
-                    },
-                    {
-                        "AttributeName": "last_question_time",
-                        "AttributeType": "S"
                     }
                 ],
                 "KeySchema": [
