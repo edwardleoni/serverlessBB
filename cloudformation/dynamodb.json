@@ -19,7 +19,9 @@
                         "KeyType" : "HASH"
                     }
                 ],
-                "PointInTimeRecoveryEnabled": true,
+                "PointInTimeRecoverySpecification": {
+                    "PointInTimeRecoveryEnabled": true,
+                },
                 "SSESpecification": {
                     "SSEEnabled": true
                 }
